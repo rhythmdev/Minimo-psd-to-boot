@@ -1,0 +1,129 @@
+@font-face {
+    font-family: 'Playfair Display', serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Playfair Display', serif;
+
+}
+
+/* header  */
+.header {
+    padding: 40px 0;
+}
+
+
+.menu ul li {
+    padding: 0 20px;
+}
+
+.menu ul li a {
+    font: size 14px;
+    font: weight 500;
+    color: #626262 !important;
+}
+
+/* end of header */
+
+/* comment */
+
+.comment {
+    padding: 80px 0;
+    font-family: 'Playfair Display', serif;
+}
+
+.comment h5 {
+    color: #626262;
+    text-transform: uppercase;
+}
+
+.comment h1 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #818181;
+}
+
+.comment p {
+    color: #818181;
+    text-align: justify;
+}
+
+/* end of comment */
+
+/* gallery content */
+.gallery {
+    padding: 80px 0;
+}
+
+.gallery-content h5 {
+    color: #818181;
+    padding: 15px 0 0 0;
+}
+
+.gallery-content h3 {
+    color: #626262;
+    padding: 15px 0;
+}
+
+.gallery-content p {
+    color: #626262;
+
+}
+
+
+/* end of gallery content */
+
+/* Sign up */
+
+.sign-up {
+    padding: 80px 0;
+    background: #f0f0f0;
+}
+
+.sign h3 {
+    color: #626262;
+    padding: 60px 0;
+}
+
+.input-group {
+    border-bottom: 2px solid;
+}
+
+.form-custome {
+    border: none;
+}
+
+.input-group-text {
+    background-color: transparent;
+    border: none;
+}
+
+/* end of sign up */
+
+/* button */
+
+.btn-custome {
+    border: 1px solid #626262;
+    border-radius: 25px 0 25px 0;
+    color: #626262;
+    font-weight: 600;
+    padding: 10px 25px;
+}
+
+.btn-custome:hover {
+    background-color: black;
+    color: white;
+    transition: 0.4s;
+}
+
+/* end of button */
+
+/* footer */
+.terms li a {
+    color: #626262 !important;
+    text-decoration: none;
+
+}
+
+/* end of footer */
